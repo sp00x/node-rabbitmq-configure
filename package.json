@@ -1,0 +1,27 @@
+{
+  "name": "rabbitmq-configure",
+  "description": "Automatically configure RabbitMQ",
+  "keywords": [
+    "rabbitmq",
+    "amqp",
+    "configure"
+  ],
+  "author": {
+    "name": "Rune Bjerke",
+    "url": "http://spoox.org"
+  },
+  "version": "0.0.1",
+  "license": "BSD",
+  "repository": {
+    "url": ""
+  },
+  "main": "index.js",
+  "dependencies": {
+    "q": "~0.9.7",
+    "amqp": "~0.1.7"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "private": true
+}
