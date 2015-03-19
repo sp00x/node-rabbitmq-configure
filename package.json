@@ -17,8 +17,8 @@
   },
   "main": "index.js",
   "dependencies": {
-    "q": "~0.9.7",
-    "amqp": "~0.2.0"
+    "q": "~1.2.0",
+    "amqp": "~0.2.4"
   },
   "engines": {
     "node": "*"
